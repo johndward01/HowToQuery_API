@@ -1,6 +1,4 @@
-﻿
-
-using HowToQuery_API;
+﻿using HowToQuery_API;
 using Newtonsoft.Json;
 using RestSharp;
 
